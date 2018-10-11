@@ -1,0 +1,1 @@
+module.exports = { baseUrl: 'http://dev.api.dev.com' };
